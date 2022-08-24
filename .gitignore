@@ -2,6 +2,10 @@
 build/
 DerivedData/
 
+#Xcode
+xcuserdata
+*.xcodeproj
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
